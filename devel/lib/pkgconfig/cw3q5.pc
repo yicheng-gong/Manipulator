@@ -1,0 +1,8 @@
+prefix=/home/yicheng/catkin_ws/devel
+
+Name: cw3q5
+Description: Description of cw3q5
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

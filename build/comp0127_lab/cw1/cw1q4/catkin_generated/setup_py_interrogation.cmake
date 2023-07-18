@@ -1,0 +1,7 @@
+set(cw1q4_SETUP_PY_SETUP_MODULE "distutils.core")
+set(cw1q4_SETUP_PY_VERSION "0.0.0")
+set(cw1q4_SETUP_PY_SCRIPTS "")
+set(cw1q4_SETUP_PY_PACKAGES "package_name")
+set(cw1q4_SETUP_PY_PACKAGE_DIRS "src/package_name")
+set(cw1q4_SETUP_PY_MODULES "")
+set(cw1q4_SETUP_PY_MODULE_DIRS "")

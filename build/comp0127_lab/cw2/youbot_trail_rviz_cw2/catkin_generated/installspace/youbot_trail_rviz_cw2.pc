@@ -1,0 +1,8 @@
+prefix=/home/yicheng/catkin_ws/install
+
+Name: youbot_trail_rviz_cw2
+Description: Description of youbot_trail_rviz_cw2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

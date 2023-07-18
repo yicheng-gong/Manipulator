@@ -1,0 +1,8 @@
+prefix=/home/yicheng/catkin_ws/install
+
+Name: lab05_example
+Description: Description of lab05_example
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

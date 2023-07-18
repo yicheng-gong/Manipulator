@@ -1,0 +1,8 @@
+prefix=/home/yicheng/catkin_ws/devel
+
+Name: cw1q4
+Description: Description of cw1q4
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
